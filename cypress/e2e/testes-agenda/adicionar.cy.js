@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('Testes para a página de candidatura', () => {
+describe('Testes para a página de agenda', () => {
     beforeEach(() => {
         cy.visit('https://agenda-contatos-react.vercel.app/')
     })
